@@ -4,6 +4,8 @@ This is a blank project for TypeScript development with CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
+Guide: https://docs.aws.amazon.com/solutions/latest/constructs/walkthrough-part-1.html
+
 ## Useful commands
 
  * `npm run build`   compile typescript to js
